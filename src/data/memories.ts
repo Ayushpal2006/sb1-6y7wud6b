@@ -13,7 +13,14 @@ import image11 from '@/assets/images/11.jpg';
 import image12 from '@/assets/images/12.png';
 import image13 from '@/assets/images/13.png';
 import image14 from '@/assets/images/14.png';
-
+import image15 from '@/assets/images/15.jpg';
+import image16 from '@/assets/images/16.jpg';
+import image17 from '@/assets/images/17.jpg';
+import image18 from '@/assets/images/18.jpg';
+import image19 from '@/assets/images/19.jpg';
+import image20 from '@/assets/images/20.jpg';
+import image21 from '@/assets/images/21.jpg';
+import image22 from '@/assets/images/22.jpg';
 
 
 export const memories: Memory[] = [
@@ -85,5 +92,45 @@ export const memories: Memory[] = [
     image: image14,
     message: "Every moment with you is precious 💝",
     height: 310
+  },
+  {
+    image: image15,
+    message: "Your laughter is the melody of my heart 💖",
+    height: 420
+  },
+  {
+    image: image16,
+    message: "The bond we share is unbreakable 💫",
+    height: 430
+  },
+  {
+    image: image17,
+    message: "You light up my world like nobody else 🌟",
+    height: 410
+  },
+  {
+    image: image18,
+    message: "Through thick and thin, we stand together 💪",
+    height: 440
+  },
+  {
+    image: image19,
+    message: "Your presence is my comfort and peace 🕊️",
+    height: 400
+  },
+  {
+    image: image20,
+    message: "Adventures are better with you by my side 🌍",
+    height: 450
+  },
+  {
+    image: image21,
+    message: "The love we share is beyond words 💞",
+    height: 430
+  },
+  {
+    image: image22,
+    message: "You are my sunshine on a cloudy day ☀️",
+    height: 410
   }
 ];
