@@ -14,7 +14,7 @@ function App() {
           <p className="mx-auto max-w-2xl text-base sm:text-lg text-gray-600 dark:text-gray-300 px-4">
             I've created this space to show you how much you mean to me. Each image represents a special moment, 
             a feeling, or a thought about you. You're the most amazing person I've ever met, and I want you to know that...
-            I love you! 💕
+            I love you! 💕 
           </p>
         </div>
 
